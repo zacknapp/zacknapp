@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zacknapp
+- 👋 Hi, I’m Zac
 - 👀 I’m interested in AI and blockhain
 - 🌱 I’m currently learning Langchain, ChatGPT and Slack Dev toolkit
 
